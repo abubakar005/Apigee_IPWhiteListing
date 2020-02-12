@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="IPWhiteListing">
+    <Basepaths>/v1/ipwhitelisting</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1560668020364</CreatedAt>
+    <CreatedBy>attiya.riaz@abacus-global.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>IPWhiteListing</DisplayName>
+    <LastModifiedAt>1580973610584</LastModifiedAt>
+    <LastModifiedBy>attiya.riaz@abacus-global.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:c9bc922a395ae089047b796de6c54bbbba1222792d69e7cfb27a55c521cd1e48874f588c4192af95de1fb6989e2f8fe7a19a58e20bb03b17b26dfd164ef5b8f4</ManifestVersion>
+    <Policies>
+        <Policy>IP-WhiteListing</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

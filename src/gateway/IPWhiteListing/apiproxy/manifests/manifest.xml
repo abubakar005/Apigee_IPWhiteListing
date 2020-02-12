@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="IP-WhiteListing" version="SHA-512:b59cbb9e8e94ddbd56e32e47286bd6ff6c9890c1c1f4f2e4ca98616a6be7a80a174b15aae46d8668f783acd09b0a5d3bf67974cc43af7471770e93fa97659cc0"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:5c79f7c6cb3bfdbd5bcafd69af8b38979e8d77973b8807a19675a2eddc0b6221f5cfb7c46ca5352c5999c58e6e52866c9a9a3aa56e36292e407b5fe432542fab"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
